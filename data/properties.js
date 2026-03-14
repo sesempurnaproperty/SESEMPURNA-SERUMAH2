@@ -8,7 +8,7 @@ price:"RM650,000",
 image:"images/house1.jpg",
 bedroom:4,
 bathroom:3
-link:"property/house1.html"
+link:"property.house1.html"
 },
 
 {
