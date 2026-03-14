@@ -16,6 +16,8 @@ container.innerHTML += `
 
 <p>${property.bedroom} Bedroom | ${property.bathroom} Bathroom</p>
 
+<a href="${property.link}">View Details</a>
+
 </div>
 
 `;
